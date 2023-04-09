@@ -1,2 +1,2 @@
-# curp_generator
-This program generate CURP (Mexico)
+# CURP Generator
+This program generate a CURP (only works in México)
